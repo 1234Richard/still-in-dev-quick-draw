@@ -1,0 +1,19 @@
+body {
+    background-color: antiquewhite;
+}
+
+#update_score {
+    font-size: medium;
+    float: left;
+    margin-left: 250px;
+}
+
+#limited_time {
+    font-size: medium;
+    float: right;
+    margin-right: 250px;
+}
+
+#sketch_to_be_drawn {
+    color: blue;
+}
